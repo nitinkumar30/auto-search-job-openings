@@ -1,6 +1,6 @@
 # Auto search job openings
 
-> This project automatically searches for various openings from various portals and scrap it in a file.
+> This project automatically searches for various openings from various portals and scrap it in a file.  
 > Navigate to [venv](https://filebin.net/gehd2ux6hk549bqg) for the venv folder.  
 
 ## How to use
