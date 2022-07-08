@@ -34,7 +34,7 @@ I'm spending lots of my time to get this project to be completed. It'll help som
 ```selenium```  
 ```chromedriver_autoinstaller```  
 ```datetime```  
-        ...will be adding some more
+        ...will be adding some more(BeautifulSoup, Requests etc)
 
 ## Know about the coder behind it
 
